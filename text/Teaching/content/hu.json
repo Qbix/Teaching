@@ -1,0 +1,29 @@
+{
+    "courses": {
+        "Title": "Tanfolyamok",
+        "NewCourse": "Új tanfolyam",
+        "UpdateCourse": "Kurzus frissítése",
+        "CreateCourse": "Kurzus létrehozása",
+        "AreYouSureDeleteCourse": "Biztosan törli ezt a kurzust?",
+        "TitlePlaceholder": "tanfolyam címe...",
+        "DescribeCourse": "tanfolyam leírása...",
+        "CourseIcon": "A tanfolyam képe",
+        "UploadIcon": "Feltöltés ikon",
+        "Conversation": "Beszélgetés",
+        "filterCourses": "kurzusok szűrése név szerint",
+        "Enroll": "Jelentkezzen a tanfolyamra",
+        "SubscriptionPlans": "Az előfizetési tervek tartalmazták ezt a tanfolyamot",
+        "AssignToPlan": "Hozzárendelés az előfizetési csomaghoz",
+        "SelectSubscriptionPlan": "Válassza ki az előfizetési csomagot",
+        "HideTitle": "cím elrejtése",
+        "Interests": "Érdeklődések",
+        "UpdateInterests": "Frissítse érdeklődési köreit"
+    },
+    "types": {
+        "Teaching\/course": {
+            "displayType": "Tanfolyam",
+            "description": "Oktatási tanfolyam",
+            "newItem": "Új tanfolyam"
+        }
+    }
+}

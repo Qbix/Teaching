@@ -1,0 +1,29 @@
+{
+    "courses": {
+        "Title": "Korsijiet",
+        "NewCourse": "Kors Ġdid",
+        "UpdateCourse": "Aġġornament Kors",
+        "CreateCourse": "Oħloq Kors",
+        "AreYouSureDeleteCourse": "Żgur li trid tħassar dan il-kors",
+        "TitlePlaceholder": "titolu tal-kors...",
+        "DescribeCourse": "iddeskrivi l-kors...",
+        "CourseIcon": "Stampa tal-kors",
+        "UploadIcon": "Tella Ikona",
+        "Conversation": "Konversazzjoni",
+        "filterCourses": "iffiltra korsijiet bl-isem",
+        "Enroll": "Irreġistra fil-Kors",
+        "SubscriptionPlans": "Pjanijiet ta&#39; abbonament kienu jinvolvu dan il-kors",
+        "AssignToPlan": "Assenja għal pjan ta&#39; abbonament",
+        "SelectSubscriptionPlan": "Agħżel pjan ta &#39;abbonament",
+        "HideTitle": "aħbi t-titlu",
+        "Interests": "Interessi",
+        "UpdateInterests": "Aġġorna l-Interessi"
+    },
+    "types": {
+        "Teaching\/course": {
+            "displayType": "Kors",
+            "description": "Kors ta’ tagħlim",
+            "newItem": "Kors Ġdid"
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "courses": {
+        "Title": "ΚΥΚΛΟΣ ΜΑΘΗΜΑΤΩΝ",
+        "NewCourse": "Νέο μάθημα",
+        "UpdateCourse": "Ενημέρωση μαθήματος",
+        "CreateCourse": "Δημιουργία μαθήματος",
+        "AreYouSureDeleteCourse": "Είστε βέβαιοι ότι θέλετε να διαγράψετε αυτό το μάθημα",
+        "TitlePlaceholder": "τίτλος μαθήματος...",
+        "DescribeCourse": "περιγράψτε την πορεία...",
+        "CourseIcon": "Φωτογραφία μαθήματος",
+        "UploadIcon": "Μεταφόρτωση εικονίδιο",
+        "Conversation": "Συνομιλία",
+        "filterCourses": "φιλτράρετε τα μαθήματα ονομαστικά",
+        "Enroll": "Εγγραφείτε στο μάθημα",
+        "SubscriptionPlans": "Τα σχέδια συνδρομής περιλάμβαναν αυτό το μάθημα",
+        "AssignToPlan": "Αντιστοίχιση σε πρόγραμμα συνδρομής",
+        "SelectSubscriptionPlan": "Επιλέξτε πρόγραμμα συνδρομής",
+        "HideTitle": "απόκρυψη τίτλου",
+        "Interests": "Τα ενδιαφέροντα",
+        "UpdateInterests": "Ενημέρωση ενδιαφερόντων"
+    },
+    "types": {
+        "Teaching\/course": {
+            "displayType": "Σειρά μαθημάτων",
+            "description": "Διδακτικό μάθημα",
+            "newItem": "Νέο μάθημα"
+        }
+    }
+}

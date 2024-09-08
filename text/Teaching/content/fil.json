@@ -1,0 +1,29 @@
+{
+    "courses": {
+        "Title": "Kurso",
+        "NewCourse": "Bagong Kurso",
+        "UpdateCourse": "I-update ang Kurso",
+        "CreateCourse": "Lumikha ng Kurso",
+        "AreYouSureDeleteCourse": "Sigurado ka bang gusto mong tanggalin ang kursong ito",
+        "TitlePlaceholder": "pamagat ng kurso...",
+        "DescribeCourse": "ilarawan ang kurso...",
+        "CourseIcon": "Larawan ng kurso",
+        "UploadIcon": "Icon ng Pag-upload",
+        "Conversation": "Pag-uusap",
+        "filterCourses": "salain ang mga kurso ayon sa pangalan",
+        "Enroll": "Magpatala sa Kurso",
+        "SubscriptionPlans": "Kasama sa mga plano sa subscription ang kursong ito",
+        "AssignToPlan": "Italaga sa plano ng subscription",
+        "SelectSubscriptionPlan": "Pumili ng plano ng subscription",
+        "HideTitle": "itago ang pamagat",
+        "Interests": "Mga interes",
+        "UpdateInterests": "I-update ang mga Interes"
+    },
+    "types": {
+        "Teaching\/course": {
+            "displayType": "kurso",
+            "description": "Kurso sa pagtuturo",
+            "newItem": "Bagong Kurso"
+        }
+    }
+}

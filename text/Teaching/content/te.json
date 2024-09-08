@@ -1,0 +1,29 @@
+{
+    "courses": {
+        "Title": "కోర్సులు",
+        "NewCourse": "కొత్త కోర్సు",
+        "UpdateCourse": "కోర్సును నవీకరించండి",
+        "CreateCourse": "కోర్సును సృష్టించండి",
+        "AreYouSureDeleteCourse": "మీరు ఖచ్చితంగా ఈ కోర్సును తొలగించాలనుకుంటున్నారా",
+        "TitlePlaceholder": "కోర్సు శీర్షిక...",
+        "DescribeCourse": "కోర్సును వివరించండి...",
+        "CourseIcon": "కోర్సు చిత్రం",
+        "UploadIcon": "అప్‌లోడ్ చిహ్నం",
+        "Conversation": "సంభాషణ",
+        "filterCourses": "పేరుతో కోర్సులను ఫిల్టర్ చేయండి",
+        "Enroll": "కోర్సులో నమోదు చేయండి",
+        "SubscriptionPlans": "సబ్‌స్క్రిప్షన్ ప్లాన్‌లు ఈ కోర్సును కలిగి ఉన్నాయి",
+        "AssignToPlan": "సబ్‌స్క్రిప్షన్ ప్లాన్‌కు కేటాయించండి",
+        "SelectSubscriptionPlan": "సబ్‌స్క్రిప్షన్ ప్లాన్‌ని ఎంచుకోండి",
+        "HideTitle": "శీర్షిక దాచు",
+        "Interests": "అభిరుచులు",
+        "UpdateInterests": "ఆసక్తులను నవీకరించండి"
+    },
+    "types": {
+        "Teaching\/course": {
+            "displayType": "కోర్సు",
+            "description": "బోధనా కోర్సు",
+            "newItem": "కొత్త కోర్సు"
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "courses": {
+        "Title": "Курсы",
+        "NewCourse": "Новы курс",
+        "UpdateCourse": "Абнаўленне курса",
+        "CreateCourse": "Стварыць курс",
+        "AreYouSureDeleteCourse": "Вы ўпэўнены, што хочаце выдаліць гэты курс?",
+        "TitlePlaceholder": "назва курса...",
+        "DescribeCourse": "апісаць курс...",
+        "CourseIcon": "Карцінка курса",
+        "UploadIcon": "Значок загрузкі",
+        "Conversation": "Гутарка",
+        "filterCourses": "фільтраваць курсы па назве",
+        "Enroll": "Запісацца на курс",
+        "SubscriptionPlans": "Планы падпіскі ўключаюць гэты курс",
+        "AssignToPlan": "Прызначыць план падпіскі",
+        "SelectSubscriptionPlan": "Выберыце план падпіскі",
+        "HideTitle": "схаваць назву",
+        "Interests": "Інтарэсы",
+        "UpdateInterests": "Абнаўленне інтарэсаў"
+    },
+    "types": {
+        "Teaching\/course": {
+            "displayType": "Вядома",
+            "description": "Вучэбны курс",
+            "newItem": "Новы курс"
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "courses": {
+        "Title": "კურსები",
+        "NewCourse": "ახალი კურსი",
+        "UpdateCourse": "კურსის განახლება",
+        "CreateCourse": "კურსის შექმნა",
+        "AreYouSureDeleteCourse": "დარწმუნებული ხართ, რომ გსურთ ამ კურსის წაშლა",
+        "TitlePlaceholder": "კურსის დასახელება...",
+        "DescribeCourse": "კურსის აღწერა...",
+        "CourseIcon": "კურსის სურათი",
+        "UploadIcon": "ატვირთვის ხატულა",
+        "Conversation": "Საუბარი",
+        "filterCourses": "კურსების გაფილტვრა სახელით",
+        "Enroll": "ჩაეწერეთ კურსზე",
+        "SubscriptionPlans": "გამოწერის გეგმები მოიცავდა ამ კურსს",
+        "AssignToPlan": "დანიშნეთ სააბონენტო გეგმა",
+        "SelectSubscriptionPlan": "აირჩიეთ სააბონენტო გეგმა",
+        "HideTitle": "სათაურის დამალვა",
+        "Interests": "ინტერესები",
+        "UpdateInterests": "განაახლეთ ინტერესები"
+    },
+    "types": {
+        "Teaching\/course": {
+            "displayType": "კურსი",
+            "description": "სასწავლო კურსი",
+            "newItem": "ახალი კურსი"
+        }
+    }
+}

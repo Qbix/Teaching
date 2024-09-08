@@ -1,0 +1,29 @@
+{
+    "courses": {
+        "Title": "Dersler",
+        "NewCourse": "Yeni Kurs",
+        "UpdateCourse": "Kursu Güncelle",
+        "CreateCourse": "Kurs Oluştur",
+        "AreYouSureDeleteCourse": "Bu kursu silmek istediğinizden emin misiniz?",
+        "TitlePlaceholder": "ders başlığı...",
+        "DescribeCourse": "dersi anlat...",
+        "CourseIcon": "Kurs resmi",
+        "UploadIcon": "Simgeyi Yükle",
+        "Conversation": "Konuşma",
+        "filterCourses": "Kursları ada göre filtrele",
+        "Enroll": "Kursa Kayıt Olun",
+        "SubscriptionPlans": "Bu kursu içeren abonelik planları",
+        "AssignToPlan": "Abonelik planına ata",
+        "SelectSubscriptionPlan": "Abonelik planı seçin",
+        "HideTitle": "başlığı gizle",
+        "Interests": "İlgi alanları",
+        "UpdateInterests": "İlgi Alanlarını Güncelle"
+    },
+    "types": {
+        "Teaching\/course": {
+            "displayType": "Kurs",
+            "description": "Öğretim kursu",
+            "newItem": "Yeni Kurs"
+        }
+    }
+}

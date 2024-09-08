@@ -1,0 +1,29 @@
+{
+    "courses": {
+        "Title": "Kursy",
+        "NewCourse": "Nowy kurs",
+        "UpdateCourse": "Aktualizuj kurs",
+        "CreateCourse": "Utwórz kurs",
+        "AreYouSureDeleteCourse": "Czy na pewno chcesz usunąć ten kurs?",
+        "TitlePlaceholder": "tytuł kursu...",
+        "DescribeCourse": "opisz przebieg...",
+        "CourseIcon": "Zdjęcie kursu",
+        "UploadIcon": "Prześlij ikonę",
+        "Conversation": "Rozmowa",
+        "filterCourses": "filtruj kursy według nazwy",
+        "Enroll": "Zapisz się na kurs",
+        "SubscriptionPlans": "Plany subskrypcyjne obejmowały ten kurs",
+        "AssignToPlan": "Przypisz do planu abonamentowego",
+        "SelectSubscriptionPlan": "Wybierz plan subskrypcji",
+        "HideTitle": "ukryj tytuł",
+        "Interests": "Zainteresowania",
+        "UpdateInterests": "Aktualizuj zainteresowania"
+    },
+    "types": {
+        "Teaching\/course": {
+            "displayType": "Kurs",
+            "description": "Kurs pedagogiczny",
+            "newItem": "Nowy kurs"
+        }
+    }
+}

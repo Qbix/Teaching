@@ -1,0 +1,29 @@
+{
+    "courses": {
+        "Title": "Cursos",
+        "NewCourse": "Nou Curs",
+        "UpdateCourse": "Curs d&#39;actualització",
+        "CreateCourse": "Crear curs",
+        "AreYouSureDeleteCourse": "Confirmes que vols suprimir aquest curs?",
+        "TitlePlaceholder": "títol del curs...",
+        "DescribeCourse": "descriu el curs...",
+        "CourseIcon": "Imatge del curs",
+        "UploadIcon": "Icona de càrrega",
+        "Conversation": "Conversa",
+        "filterCourses": "filtre els cursos pel nom",
+        "Enroll": "Inscriu-te al Curs",
+        "SubscriptionPlans": "Els plans de subscripció inclouen aquest curs",
+        "AssignToPlan": "Assigna al pla de subscripció",
+        "SelectSubscriptionPlan": "Seleccioneu el pla de subscripció",
+        "HideTitle": "oculta el títol",
+        "Interests": "Interessos",
+        "UpdateInterests": "Actualitzar interessos"
+    },
+    "types": {
+        "Teaching\/course": {
+            "displayType": "Curs",
+            "description": "Curs de docència",
+            "newItem": "Nou Curs"
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "courses": {
+        "Title": "Námskeið",
+        "NewCourse": "Nýtt námskeið",
+        "UpdateCourse": "Uppfærslunámskeið",
+        "CreateCourse": "Búa til námskeið",
+        "AreYouSureDeleteCourse": "Ertu viss um að þú viljir eyða þessu námskeiði",
+        "TitlePlaceholder": "titill námskeiðs...",
+        "DescribeCourse": "lýstu námskeiðinu...",
+        "CourseIcon": "Námskeiðsmynd",
+        "UploadIcon": "Hlaða upp táknmynd",
+        "Conversation": "Samtal",
+        "filterCourses": "sía námskeið eftir nafni",
+        "Enroll": "Skráðu þig á námskeið",
+        "SubscriptionPlans": "Áskriftaráætlanir tóku þátt í þessu námskeiði",
+        "AssignToPlan": "Úthlutaðu áskriftaráætlun",
+        "SelectSubscriptionPlan": "Veldu áskriftaráætlun",
+        "HideTitle": "fela titil",
+        "Interests": "Áhugamál",
+        "UpdateInterests": "Uppfærðu áhugasvið"
+    },
+    "types": {
+        "Teaching\/course": {
+            "displayType": "Námskeið",
+            "description": "Kennslunámskeið",
+            "newItem": "Nýtt námskeið"
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "courses": {
+        "Title": "Курси",
+        "NewCourse": "Новий курс",
+        "UpdateCourse": "Оновити курс",
+        "CreateCourse": "Створити курс",
+        "AreYouSureDeleteCourse": "Ви впевнені, що хочете видалити цей курс",
+        "TitlePlaceholder": "назва курсу...",
+        "DescribeCourse": "описати курс...",
+        "CourseIcon": "Малюнок курсу",
+        "UploadIcon": "Завантажити значок",
+        "Conversation": "Розмова",
+        "filterCourses": "фільтрувати курси за назвою",
+        "Enroll": "Запишіться на курс",
+        "SubscriptionPlans": "Плани передплати включали цей курс",
+        "AssignToPlan": "Призначити плану підписки",
+        "SelectSubscriptionPlan": "Виберіть тарифний план",
+        "HideTitle": "приховати назву",
+        "Interests": "Інтереси",
+        "UpdateInterests": "Оновити інтереси"
+    },
+    "types": {
+        "Teaching\/course": {
+            "displayType": "курс",
+            "description": "Навчальний курс",
+            "newItem": "Новий курс"
+        }
+    }
+}

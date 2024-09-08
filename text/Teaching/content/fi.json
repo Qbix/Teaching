@@ -1,0 +1,29 @@
+{
+    "courses": {
+        "Title": "Kurssit",
+        "NewCourse": "Uusi kurssi",
+        "UpdateCourse": "Päivitä kurssi",
+        "CreateCourse": "Luo kurssi",
+        "AreYouSureDeleteCourse": "Haluatko varmasti poistaa tämän kurssin",
+        "TitlePlaceholder": "kurssin nimi...",
+        "DescribeCourse": "kuvaile kurssia...",
+        "CourseIcon": "Kurssin kuva",
+        "UploadIcon": "Latauskuvake",
+        "Conversation": "Keskustelu",
+        "filterCourses": "suodattaa kursseja nimen mukaan",
+        "Enroll": "Ilmoittaudu kurssille",
+        "SubscriptionPlans": "Tilaussuunnitelmat sisälsivät tämän kurssin",
+        "AssignToPlan": "Liitä tilaussuunnitelmaan",
+        "SelectSubscriptionPlan": "Valitse tilaussuunnitelma",
+        "HideTitle": "piilota otsikko",
+        "Interests": "Kiinnostuksen kohteet",
+        "UpdateInterests": "Päivitä kiinnostuksen kohteet"
+    },
+    "types": {
+        "Teaching\/course": {
+            "displayType": "Kurssi",
+            "description": "Opetuskurssi",
+            "newItem": "Uusi kurssi"
+        }
+    }
+}

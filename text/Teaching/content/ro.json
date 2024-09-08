@@ -1,0 +1,29 @@
+{
+    "courses": {
+        "Title": "Cursuri",
+        "NewCourse": "Curs nou",
+        "UpdateCourse": "Actualizare curs",
+        "CreateCourse": "Creați un curs",
+        "AreYouSureDeleteCourse": "Sigur doriți să ștergeți acest curs",
+        "TitlePlaceholder": "titlul cursului...",
+        "DescribeCourse": "descrie cursul...",
+        "CourseIcon": "Poza cursului",
+        "UploadIcon": "Pictograma Încărcare",
+        "Conversation": "Conversaţie",
+        "filterCourses": "filtrează cursurile după nume",
+        "Enroll": "Inscrie-te la Curs",
+        "SubscriptionPlans": "Planurile de abonament au implicat acest curs",
+        "AssignToPlan": "Atribuiți planului de abonament",
+        "SelectSubscriptionPlan": "Selectați planul de abonament",
+        "HideTitle": "ascunde titlul",
+        "Interests": "Interese",
+        "UpdateInterests": "Actualizați interesele"
+    },
+    "types": {
+        "Teaching\/course": {
+            "displayType": "Curs",
+            "description": "Curs de predare",
+            "newItem": "Curs nou"
+        }
+    }
+}

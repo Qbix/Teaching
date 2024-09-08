@@ -1,0 +1,29 @@
+{
+    "courses": {
+        "Title": "Cúrsaí",
+        "NewCourse": "Cúrsa Nua",
+        "UpdateCourse": "Cúrsa Nuashonraithe",
+        "CreateCourse": "Cruthaigh Cúrsa",
+        "AreYouSureDeleteCourse": "An bhfuil tú cinnte gur mhaith leat an cúrsa seo a scriosadh",
+        "TitlePlaceholder": "Teideal an chúrsa...",
+        "DescribeCourse": "déan cur síos ar an gcúrsa...",
+        "CourseIcon": "Pictiúr cúrsa",
+        "UploadIcon": "Uaslódáil Icon",
+        "Conversation": "Comhrá",
+        "filterCourses": "cúrsaí a scagadh de réir ainm",
+        "Enroll": "Cláraigh i gCúrsa",
+        "SubscriptionPlans": "Bhain pleananna síntiúis leis an gcúrsa seo",
+        "AssignToPlan": "Sann chuig plean síntiúis",
+        "SelectSubscriptionPlan": "Roghnaigh plean síntiús",
+        "HideTitle": "cheilt teideal",
+        "Interests": "Leasanna",
+        "UpdateInterests": "Suimeanna Nuashonraithe"
+    },
+    "types": {
+        "Teaching\/course": {
+            "displayType": "Cúrsa",
+            "description": "Cúrsa teagaisc",
+            "newItem": "Cúrsa Nua"
+        }
+    }
+}

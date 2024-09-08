@@ -1,0 +1,29 @@
+{
+    "courses": {
+        "Title": "Cyrsiau",
+        "NewCourse": "Cwrs Newydd",
+        "UpdateCourse": "Diweddaru Cwrs",
+        "CreateCourse": "Creu Cwrs",
+        "AreYouSureDeleteCourse": "Ydych chi&#39;n siŵr eich bod am ddileu&#39;r cwrs hwn",
+        "TitlePlaceholder": "teitl y cwrs...",
+        "DescribeCourse": "disgrifiwch y cwrs...",
+        "CourseIcon": "Llun cwrs",
+        "UploadIcon": "Uwchlwytho Eicon",
+        "Conversation": "Sgwrs",
+        "filterCourses": "hidlo cyrsiau yn ôl enw",
+        "Enroll": "Cofrestrwch ar y Cwrs",
+        "SubscriptionPlans": "Roedd cynlluniau tanysgrifio yn cynnwys y cwrs hwn",
+        "AssignToPlan": "Aseinio i gynllun tanysgrifio",
+        "SelectSubscriptionPlan": "Dewiswch gynllun tanysgrifio",
+        "HideTitle": "cuddio teitl",
+        "Interests": "Diddordebau",
+        "UpdateInterests": "Diweddaru Diddordebau"
+    },
+    "types": {
+        "Teaching\/course": {
+            "displayType": "Cwrs",
+            "description": "Cwrs addysgu",
+            "newItem": "Cwrs Newydd"
+        }
+    }
+}

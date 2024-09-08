@@ -1,0 +1,29 @@
+{
+    "courses": {
+        "Title": "Cursussen",
+        "NewCourse": "Nieuwe cursus",
+        "UpdateCourse": "Cursus bijwerken",
+        "CreateCourse": "Cursus maken",
+        "AreYouSureDeleteCourse": "Weet u zeker dat u deze cursus wilt verwijderen?",
+        "TitlePlaceholder": "titel van de cursus...",
+        "DescribeCourse": "cursus beschrijven...",
+        "CourseIcon": "Cursus foto",
+        "UploadIcon": "Uploadpictogram",
+        "Conversation": "Gesprek",
+        "filterCourses": "filter cursussen op naam",
+        "Enroll": "Schrijf je in voor de cursus",
+        "SubscriptionPlans": "Abonnementsplannen hadden betrekking op deze cursus",
+        "AssignToPlan": "Toewijzen aan abonnement",
+        "SelectSubscriptionPlan": "Selecteer abonnement",
+        "HideTitle": "titel verbergen",
+        "Interests": "Interesses",
+        "UpdateInterests": "Interesses bijwerken"
+    },
+    "types": {
+        "Teaching\/course": {
+            "displayType": "Cursus",
+            "description": "Cursus lesgeven",
+            "newItem": "Nieuwe cursus"
+        }
+    }
+}

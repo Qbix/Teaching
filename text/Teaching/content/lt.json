@@ -1,0 +1,29 @@
+{
+    "courses": {
+        "Title": "Kursai",
+        "NewCourse": "Naujas kursas",
+        "UpdateCourse": "Atnaujinti kursą",
+        "CreateCourse": "Sukurti kursą",
+        "AreYouSureDeleteCourse": "Ar tikrai norite ištrinti šį kursą",
+        "TitlePlaceholder": "kurso pavadinimas...",
+        "DescribeCourse": "apibūdink kursą...",
+        "CourseIcon": "Kurso paveikslas",
+        "UploadIcon": "Įkėlimo piktograma",
+        "Conversation": "Pokalbis",
+        "filterCourses": "filtruoti kursus pagal pavadinimą",
+        "Enroll": "Užsiregistruoti į kursus",
+        "SubscriptionPlans": "Šis kursas buvo įtrauktas į prenumeratos planus",
+        "AssignToPlan": "Priskirkite prenumeratos planą",
+        "SelectSubscriptionPlan": "Pasirinkite prenumeratos planą",
+        "HideTitle": "slėpti pavadinimą",
+        "Interests": "Pomėgiai",
+        "UpdateInterests": "Atnaujinkite pomėgius"
+    },
+    "types": {
+        "Teaching\/course": {
+            "displayType": "Kursas",
+            "description": "Mokymo kursas",
+            "newItem": "Naujas kursas"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+.Q_badge.Teaching_course_teacher {
+    border: 1px solid red;
+    border-radius: 50%;
+    background: #fff;
+}
+.Q_badge.Teaching_course_teacher img {
+    width: 100%;
+}
+.Teaching_course_preview_tool .Streams_participants_avatars .Q_badge i,
+.Teaching_course_tool .Streams_participants_avatars .Q_badge i {
+    font-size: 13px;
+    color: red;
+    font-weight: bold;
+    vertical-align: middle;
+    line-height: 18px;
+    display: block;
+    padding-left: 1px;
+}
+
+.Q_notMobile .Teaching_column_course {
+    width: 30%;
+}

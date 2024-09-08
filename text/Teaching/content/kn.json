@@ -1,0 +1,29 @@
+{
+    "courses": {
+        "Title": "ಕೋರ್ಸ್‌ಗಳು",
+        "NewCourse": "ಹೊಸ ಕೋರ್ಸ್",
+        "UpdateCourse": "ಕೋರ್ಸ್ ಅನ್ನು ನವೀಕರಿಸಿ",
+        "CreateCourse": "ಕೋರ್ಸ್ ರಚಿಸಿ",
+        "AreYouSureDeleteCourse": "ಈ ಕೋರ್ಸ್ ಅನ್ನು ಅಳಿಸಲು ನೀವು ಖಚಿತವಾಗಿ ಬಯಸುವಿರಾ",
+        "TitlePlaceholder": "ಕೋರ್ಸ್ ಶೀರ್ಷಿಕೆ...",
+        "DescribeCourse": "ಕೋರ್ಸ್ ಅನ್ನು ವಿವರಿಸಿ...",
+        "CourseIcon": "ಕೋರ್ಸ್ ಚಿತ್ರ",
+        "UploadIcon": "ಅಪ್‌ಲೋಡ್ ಐಕಾನ್",
+        "Conversation": "ಸಂಭಾಷಣೆ",
+        "filterCourses": "ಹೆಸರಿನ ಮೂಲಕ ಕೋರ್ಸ್‌ಗಳನ್ನು ಫಿಲ್ಟರ್ ಮಾಡಿ",
+        "Enroll": "ಕೋರ್ಸ್‌ನಲ್ಲಿ ನೋಂದಾಯಿಸಿ",
+        "SubscriptionPlans": "ಚಂದಾದಾರಿಕೆ ಯೋಜನೆಗಳು ಈ ಕೋರ್ಸ್ ಅನ್ನು ಒಳಗೊಂಡಿವೆ",
+        "AssignToPlan": "ಚಂದಾದಾರಿಕೆ ಯೋಜನೆಗೆ ನಿಯೋಜಿಸಿ",
+        "SelectSubscriptionPlan": "ಚಂದಾದಾರಿಕೆ ಯೋಜನೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ",
+        "HideTitle": "ಶೀರ್ಷಿಕೆ ಮರೆಮಾಡಿ",
+        "Interests": "ಆಸಕ್ತಿಗಳು",
+        "UpdateInterests": "ಆಸಕ್ತಿಗಳನ್ನು ನವೀಕರಿಸಿ"
+    },
+    "types": {
+        "Teaching\/course": {
+            "displayType": "ಕೋರ್ಸ್",
+            "description": "ಬೋಧನಾ ಕೋರ್ಸ್",
+            "newItem": "ಹೊಸ ಕೋರ್ಸ್"
+        }
+    }
+}

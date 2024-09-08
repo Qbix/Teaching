@@ -1,0 +1,29 @@
+{
+    "courses": {
+        "Title": "Kurslar",
+        "NewCourse": "Yeni Kurs",
+        "UpdateCourse": "Kursu yeniləyin",
+        "CreateCourse": "Kurs yaradın",
+        "AreYouSureDeleteCourse": "Bu kursu silmək istədiyinizə əminsiniz",
+        "TitlePlaceholder": "kursun adı...",
+        "DescribeCourse": "kursu təsvir edin...",
+        "CourseIcon": "Kurs şəkli",
+        "UploadIcon": "Yükləmə İkonu",
+        "Conversation": "Söhbət",
+        "filterCourses": "kursları adı ilə süzün",
+        "Enroll": "Kursa Qeydiyyatdan Keçin",
+        "SubscriptionPlans": "Abunə planları bu kursu əhatə edirdi",
+        "AssignToPlan": "Abunə planına təyin edin",
+        "SelectSubscriptionPlan": "Abunə planını seçin",
+        "HideTitle": "başlığı gizlət",
+        "Interests": "Maraqlar",
+        "UpdateInterests": "Maraqları yeniləyin"
+    },
+    "types": {
+        "Teaching\/course": {
+            "displayType": "kurs",
+            "description": "Tədris kursu",
+            "newItem": "Yeni Kurs"
+        }
+    }
+}

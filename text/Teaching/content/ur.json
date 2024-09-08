@@ -1,0 +1,29 @@
+{
+    "courses": {
+        "Title": "کورسز",
+        "NewCourse": "نیا کورس",
+        "UpdateCourse": "اپ ڈیٹ کورس",
+        "CreateCourse": "کورس بنائیں",
+        "AreYouSureDeleteCourse": "کیا آپ واقعی اس کورس کو حذف کرنا چاہتے ہیں؟",
+        "TitlePlaceholder": "کورس کا عنوان...",
+        "DescribeCourse": "کورس کی وضاحت کریں...",
+        "CourseIcon": "کورس کی تصویر",
+        "UploadIcon": "اپ لوڈ آئیکن",
+        "Conversation": "بات چیت",
+        "filterCourses": "نام سے کورسز کو فلٹر کریں۔",
+        "Enroll": "کورس میں داخلہ لیں۔",
+        "SubscriptionPlans": "سبسکرپشن پلانز اس کورس میں شامل ہیں۔",
+        "AssignToPlan": "سبسکرپشن پلان کو تفویض کریں۔",
+        "SelectSubscriptionPlan": "سبسکرپشن پلان منتخب کریں۔",
+        "HideTitle": "عنوان چھپائیں",
+        "Interests": "دلچسپیاں",
+        "UpdateInterests": "دلچسپیوں کو اپ ڈیٹ کریں۔"
+    },
+    "types": {
+        "Teaching\/course": {
+            "displayType": "کورس",
+            "description": "تدریسی کورس",
+            "newItem": "نیا کورس"
+        }
+    }
+}

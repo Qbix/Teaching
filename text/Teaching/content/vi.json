@@ -1,0 +1,29 @@
+{
+    "courses": {
+        "Title": "Khóa học",
+        "NewCourse": "Khóa học mới",
+        "UpdateCourse": "Cập nhật khóa học",
+        "CreateCourse": "Tạo khóa học",
+        "AreYouSureDeleteCourse": "Bạn có chắc chắn muốn xóa khóa học này",
+        "TitlePlaceholder": "tên khóa học...",
+        "DescribeCourse": "mô tả khóa học...",
+        "CourseIcon": "Hình ảnh khóa học",
+        "UploadIcon": "Biểu tượng tải lên",
+        "Conversation": "Cuộc hội thoại",
+        "filterCourses": "lọc các khóa học theo tên",
+        "Enroll": "Đăng ký khóa học",
+        "SubscriptionPlans": "Các gói đăng ký liên quan đến khóa học này",
+        "AssignToPlan": "Chỉ định gói đăng ký",
+        "SelectSubscriptionPlan": "Chọn gói đăng ký",
+        "HideTitle": "ẩn tiêu đề",
+        "Interests": "Sở thích",
+        "UpdateInterests": "Cập nhật sở thích"
+    },
+    "types": {
+        "Teaching\/course": {
+            "displayType": "Khóa học",
+            "description": "Khóa học giảng dạy",
+            "newItem": "Khóa học mới"
+        }
+    }
+}

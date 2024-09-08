@@ -1,0 +1,5 @@
+UPDATE {{prefix}}label
+SET icon = REPLACE(icon, "/Teaching/roles/", "/labels/Teaching/");
+
+UPDATE {{prefix}}label
+SET icon = REPLACE(icon, "{{Teaching}}/img/icons/labels/", "{{Teaching}}/img/icons/labels/Teaching/");

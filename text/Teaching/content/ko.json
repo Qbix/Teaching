@@ -1,0 +1,29 @@
+{
+    "courses": {
+        "Title": "과정",
+        "NewCourse": "새로운 코스",
+        "UpdateCourse": "코스 업데이트",
+        "CreateCourse": "강좌 생성",
+        "AreYouSureDeleteCourse": "정말로 이 강좌를 삭제하시겠습니까?",
+        "TitlePlaceholder": "강좌 제목...",
+        "DescribeCourse": "코스 설명...",
+        "CourseIcon": "코스 사진",
+        "UploadIcon": "업로드 아이콘",
+        "Conversation": "대화",
+        "filterCourses": "이름으로 강좌 필터링",
+        "Enroll": "강좌 등록",
+        "SubscriptionPlans": "이 강좌와 관련된 구독 계획",
+        "AssignToPlan": "구독 계획에 할당",
+        "SelectSubscriptionPlan": "구독 요금제 선택",
+        "HideTitle": "제목 숨기기",
+        "Interests": "이해",
+        "UpdateInterests": "관심분야 업데이트"
+    },
+    "types": {
+        "Teaching\/course": {
+            "displayType": "강의",
+            "description": "교육 과정",
+            "newItem": "새로운 코스"
+        }
+    }
+}

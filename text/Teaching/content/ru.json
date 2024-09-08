@@ -1,0 +1,29 @@
+{
+    "courses": {
+        "Title": "Курсы",
+        "NewCourse": "Новый курс",
+        "UpdateCourse": "Обновить курс",
+        "CreateCourse": "Создать курс",
+        "AreYouSureDeleteCourse": "Вы уверены, что хотите удалить этот курс?",
+        "TitlePlaceholder": "название курса...",
+        "DescribeCourse": "опишите курс...",
+        "CourseIcon": "Изображение курса",
+        "UploadIcon": "Значок загрузки",
+        "Conversation": "Беседа",
+        "filterCourses": "фильтровать курсы по названию",
+        "Enroll": "Записаться на курс",
+        "SubscriptionPlans": "Планы подписки, включающие этот курс",
+        "AssignToPlan": "Назначить план подписки",
+        "SelectSubscriptionPlan": "Выберите план подписки",
+        "HideTitle": "скрыть заголовок",
+        "Interests": "Интересы",
+        "UpdateInterests": "Обновить интересы"
+    },
+    "types": {
+        "Teaching\/course": {
+            "displayType": "Курс",
+            "description": "Учебный курс",
+            "newItem": "Новый курс"
+        }
+    }
+}

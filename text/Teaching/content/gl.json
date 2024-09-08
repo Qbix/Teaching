@@ -1,0 +1,29 @@
+{
+    "courses": {
+        "Title": "Cursos",
+        "NewCourse": "Novo Curso",
+        "UpdateCourse": "Curso de Actualización",
+        "CreateCourse": "Crear curso",
+        "AreYouSureDeleteCourse": "Seguro que queres eliminar este curso",
+        "TitlePlaceholder": "título do curso...",
+        "DescribeCourse": "describir o curso...",
+        "CourseIcon": "Imaxe do curso",
+        "UploadIcon": "Icona de carga",
+        "Conversation": "Conversa",
+        "filterCourses": "filtrar os cursos polo nome",
+        "Enroll": "Inscríbete no curso",
+        "SubscriptionPlans": "Os plans de subscrición implicaron este curso",
+        "AssignToPlan": "Asignar ao plan de subscrición",
+        "SelectSubscriptionPlan": "Seleccione o plan de subscrición",
+        "HideTitle": "ocultar título",
+        "Interests": "Intereses",
+        "UpdateInterests": "Actualizar intereses"
+    },
+    "types": {
+        "Teaching\/course": {
+            "displayType": "Curso",
+            "description": "Curso de docencia",
+            "newItem": "Novo Curso"
+        }
+    }
+}

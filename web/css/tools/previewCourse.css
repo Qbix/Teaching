@@ -1,0 +1,178 @@
+.Teaching_course_preview_tool {
+    
+}
+.Teaching_course_preview_tool .Teaching_course_preview_background {
+    height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+    position: relative;
+    border-radius: 5px 5px 0 0;
+    box-shadow: 0 0 0.3em #aaa;
+}
+.Teaching_course_preview_tool .Teaching_course_preview_title {
+    display: block;
+    color: #fff;
+    padding: 5px 0 5px 10px;
+    height: 50px;
+    background-color: rgba(0,0,0,.5);
+    border-radius: 0 0 5px 5px;
+    box-shadow: 0 0 0.3em #aaa;
+}
+.Teaching_course_preview_tool .Teaching_course_preview_title > * {
+    display: block;
+    height: 100%;
+}
+.Teaching_course_preview_tool .Streams_participants_tool {
+    position: relative;
+    margin-top: -10px;
+}
+.Teaching_course_preview_tool .Streams_participants_tool img.Users_avatar_icon {
+    border-width: 1px;
+}
+.Teaching_course_preview_tool .Streams_participants_tool .Streams_participants_summary {
+    padding: 5px 10px;
+    width: auto;
+    height: auto;
+    border-radius: 5px;
+    background-color: green;
+}
+
+/* <create course css> */
+.Q_notMobile .Teaching_course_preview_composer.Q_overlay {
+    max-width: 460px;
+}
+.Teaching_course_preview_composer form.Teaching_course_composer {
+    padding: 5px;
+    font-size: 20px;
+}
+.Teaching_course_preview_composer .Teaching_course_composer_form_group[data-type=icon] label {
+    display: block;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    background-color: rgba(195, 195, 195, .7);
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: #000;
+    cursor: pointer;
+}
+.Teaching_course_preview_composer .Teaching_course_composer_form_group label[for=hideTitle] {
+    font-size: .8em;
+}
+.Teaching_course_preview_composer .Teaching_course_composer_form_group label[for=hideTitle] input {
+    scale: 1.5;
+}
+.Teaching_course_preview_composer .Teaching_course_composer_form_group {
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 20px;
+    position: relative;
+}
+.Teaching_course_preview_composer .Teaching_course_composer_form_group[data-type=icon],
+.Teaching_course_preview_composer .Teaching_course_composer_form_group[data-type=interests],
+.Teaching_course_preview_composer .Teaching_course_composer_form_group[data-type=teaser] {
+    position: relative;
+    text-align: center;
+    border: 2px dashed rgba(4, 4, 5, 0.1);
+    border-radius: 5px;
+    padding: 5px;
+}
+.Teaching_course_preview_composer .Teaching_course_composer_form_group[data-type=interests],
+.Teaching_course_preview_composer .Teaching_course_composer_form_group[data-type=teaser] {
+    padding-top: 15px;
+}
+.Teaching_course_preview_composer .Teaching_course_composer_form_group[data-type=interests] > label,
+.Teaching_course_preview_composer .Teaching_course_composer_form_group[data-type=teaser] > label {
+    position: absolute;
+    left: 10%;
+    top: -14px;
+    background-color: rgba(100, 100, 100, 0.5);
+    padding: 0 10px;
+    border: 2px dashed rgba(4, 4, 5, 0.5);
+    border-radius: 5px;
+}
+.Teaching_course_preview_composer_interests .Q_expandable_tool h2.Q_expandable_title {
+    background-color: rgba(180, 200, 220, 0.4);
+}
+.Teaching_course_preview_composer_interests .Q_expandable_tool h2.Q_expandable_title:hover,
+.Teaching_course_preview_composer_interests .Q_expandable_tool h2.Q_expandable_title.Q_expanded {
+    background-color: rgba(180, 200, 220, 0.7);
+}
+.Teaching_course_preview_composer_interests .Q_expandable_title img {
+    filter: invert(50%);
+}
+.Teaching_course_preview_composer .Teaching_course_composer_interests ul {
+    list-style: none;
+    text-align: left;
+}
+.Teaching_course_preview_composer_interests .Q_expandable_container {
+    padding-left: 40px;
+}
+.Teaching_course_preview_composer .Teaching_course_composer_form_control {
+    background: transparent;
+    font-size: 1em;
+    overflow: hidden;
+    outline: none;
+    width: 100%;
+    border-width: 0 0 2px;
+    border-top-color: initial;
+    border-right-color: initial;
+    border-left-color: initial;
+    border-image: initial;
+    padding-top: 0;
+    padding-bottom: 0;
+    border-bottom-color: rgba(4, 4, 5, 0.07);
+    border-style: solid !important;
+}
+.Teaching_course_preview_composer .Teaching_course_composer_form_control::placeholder {
+    font-weight: normal;
+    opacity: 0.5;
+    font-style: italic;
+}
+.Teaching_course_preview_composer textarea.Teaching_course_composer_form_control {
+    min-height: 40px;
+}
+.Teaching_course_preview_composer .Teaching_course_composer_form_group[data-type=icon] .Teaching_course_preview_icon {
+    width: 100%;
+}
+.Teaching_course_preview_composer .Teaching_course_composer_form_group[data-type=icon] .Teaching_course_preview_icon {
+    display: block;
+}
+.Teaching_course_preview_composer .Teaching_course_composer_form_group p {
+    color: #000;
+    font-size: 13px;
+}
+.Teaching_course_preview_composer button[name=save] {
+    white-space: nowrap;
+    color: #fff;
+    margin: 0 auto;
+    display: block;
+}
+.Teaching_course_preview_composer .Teaching_course_composer_form_group[data-type=teaser] .Streams_preview_tool.Streams_video_preview_tool {
+    background-color: rgba(0, 0, 0, .2);
+    border-radius: 5px;
+    cursor: pointer;
+}
+/* </create course css> */
+
+.Teaching_course_composer_teaser_video .Q_dialog_content > .Q_video_tool {
+    position: relative;
+}
+
+.Assets_plan_preview_tool .Assets_plan_related_streams .Teaching_course_preview_tool {
+    display: flex;
+    flex-wrap: nowrap;
+}
+.Assets_plan_preview_tool .Assets_plan_related_streams .Teaching_course_preview_tool .Teaching_course_preview_background {
+    width: 80px;
+    height: 80px;
+    border-radius: 5px 0 0 5px;
+    border-right: none;
+}
+.Assets_plan_preview_tool .Assets_plan_related_streams .Teaching_course_preview_tool .Teaching_course_preview_title {
+    width: calc(100% - 80px);
+    border-radius: 0 5px 5px 0;
+    border-left: none;
+}

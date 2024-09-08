@@ -1,0 +1,29 @@
+{
+    "courses": {
+        "Title": "Курсове",
+        "NewCourse": "Нов курс",
+        "UpdateCourse": "Актуализиране на курса",
+        "CreateCourse": "Създаване на курс",
+        "AreYouSureDeleteCourse": "Сигурни ли сте, че искате да изтриете този курс",
+        "TitlePlaceholder": "заглавие на курса...",
+        "DescribeCourse": "опишете курса...",
+        "CourseIcon": "Снимка на курса",
+        "UploadIcon": "Икона за качване",
+        "Conversation": "Разговор",
+        "filterCourses": "филтрирайте курсове по име",
+        "Enroll": "Запишете се в курса",
+        "SubscriptionPlans": "Абонаментните планове включват този курс",
+        "AssignToPlan": "Присвояване на абонаментен план",
+        "SelectSubscriptionPlan": "Изберете абонаментен план",
+        "HideTitle": "скрий заглавието",
+        "Interests": "Интереси",
+        "UpdateInterests": "Актуализиране на интереси"
+    },
+    "types": {
+        "Teaching\/course": {
+            "displayType": "курс",
+            "description": "Курс на преподаване",
+            "newItem": "Нов курс"
+        }
+    }
+}

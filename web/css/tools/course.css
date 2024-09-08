@@ -1,0 +1,174 @@
+.Q_notMobile .Teaching_course_tool {
+	margin-bottom: 20px; /* in case of horizontal bar overlap bottom */
+}
+.Teaching_course_tool h1 {
+	display: none;
+}
+.Teaching_course_tool .Teaching_course_image {
+	height: 200px;
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: center;
+}
+.Teaching_course_tool .Teaching_course_image[data-video=true] {
+	height: unset;
+	background-image: none;
+}
+.Teaching_course_tool .Teaching_course_description {
+	min-height: 40px;
+	max-height: 100px;
+	color: #fff;
+	padding: 5px;
+	overflow-y: auto;
+}
+.Teaching_course_tool[data-emptyDesc=true] .Teaching_course_description,
+.Teaching_course_tool[data-emptyDesc=true] .Communities_fade_bottom,
+.Teaching_course_tool .Teaching_course_description:empty {
+	display: none;
+}
+.Teaching_course_tool .Streams_participants_tool {
+	position: relative;
+}
+.Q_tool.Teaching_course_tool[data-fullAccess=false] .Teaching_course_conversation {
+	display: none;
+}
+.Q_tool.Teaching_course_tool .Teaching_course_conversation,
+.Q_tool.Teaching_course_tool .Teaching_course_interests {
+	padding-left: 55px;
+	min-height: 50px;
+}
+.Q_tool.Teaching_course_tool .Teaching_course_conversation:before,
+.Q_tool.Teaching_course_tool .Teaching_course_interests:before {
+	font-family: 'qplatform-calendars' !important;
+	font-size: 50px;
+	height: 40px;
+	position: absolute;
+	left: 0;
+	top: 0;
+}
+.Q_tool.Teaching_course_tool .Teaching_course_conversation:before {
+	content: "\e901";
+}
+.Q_tool.Teaching_course_tool .Teaching_course_interests:before {
+	font-size: 45px;
+	content: "\e903";
+}
+.Teaching_course_tool .Teaching_course_topic,
+.Teaching_course_tool .Teaching_course_conversation,
+.Teaching_course_tool .Teaching_course_interests {
+	padding: 10px;
+	position: relative;
+	cursor: pointer;
+}
+.Teaching_course_tool > *:not(:last-child) {
+	border-bottom: 2px solid var(--separate-line-color);
+}
+.Teaching_course_tool .Teaching_course_topics .Streams_preview_tool:not(:last-child) {
+	margin-bottom: 0;
+}
+.Teaching_course_tool .Teaching_course_topic h2,
+.Teaching_course_tool .Teaching_course_conversation h2,
+.Teaching_course_tool .Teaching_course_interests h2 {
+	font-weight: normal;
+	font-size: 20px;
+}
+.Teaching_course_tool .Teaching_course_topic_image {
+	height: 40px;
+	width: 40px;
+	display: inline-block;
+	float: left;
+	margin-right: 10px;
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: center;
+}
+.Teaching_course_tool .Teaching_course_topic_right {
+	position: absolute;
+	width: 40px;
+	height: 40px;
+	right: 5px;
+	top: 10px;
+	text-align: center;
+}
+.Teaching_course_tool .Teaching_course_topic_right .Teaching_course_topic_amount {
+	display: none;
+	color: blue;
+}
+.Teaching_course_tool .Teaching_course_topic[data-selected=true] .Teaching_course_topic_amount {
+	display: block;
+}
+.Teaching_course_tool .Teaching_course_topic_right .Teaching_course_topic_check {
+	width: 20px;
+	height: 20px;
+	border: 1px solid #d5dadf;
+	border-radius: 50%;
+	display: inline-block;
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: center;
+}
+.Teaching_course_tool .Teaching_course_topic[data-selected=true] .Teaching_course_topic_check {
+	background-image: url(../../img/icon_selected.png);
+}
+.Teaching_course_tool .Teaching_course_topic_content {
+	width: calc(100% - 85px);
+	height: 20px;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+.Teaching_course_tool fieldset legend {
+	font-size: 18px;
+	background: #1F497D;
+	color: #fff;
+	padding: 5px 10px;
+	border-radius: 5px;
+	box-shadow: 0 0 0 5px #ddd;
+}
+.Teaching_course_select_plan .Streams_related_tool,
+.Teaching_course_tool .Teaching_course_subscription {
+	display: flex;
+	flex-wrap: wrap;
+	row-gap: 20px;
+	justify-content: center;
+	padding-top: 20px;
+}
+.Teaching_course_tool .Teaching_course_subscription {
+	padding: 20px 2px 0 2px;
+	column-gap: 10px;
+}
+/* need to align left last element */
+.Q_mobile .Teaching_course_select_plan .Streams_related_tool  .Assets_plan_preview_tool {
+	max-width: 150px;
+}
+.Teaching_course_tool .Teaching_course_subscription .Streams_related_composer {
+	flex-basis: 100%;
+}
+.Teaching_course_select_plan {
+	width: 500px;
+}
+.Q_mobile .Teaching_course_select_plan {
+	width: 350px;
+}
+.Teaching_course_select_plan .Q_dialog_content {
+	padding: 5px;
+}
+.Teaching_course_select_plan .Streams_participants_tool {
+	display: none;
+}
+.Teaching_course_select_plan .Q_dialog_content > .Streams_related_tool > .Streams_preview_tool:not(:last-child) {
+	margin-bottom: 5px;
+}
+.Teaching_course_tool .Teaching_course_interests ul {
+	margin: 5px 0 0 0;
+	list-style-type: none;
+	padding: 0;
+}
+.Teaching_course_tool .Assets_plan_preview_tool .Assets_plan_preview_price,
+.Teaching_course_tool .Assets_plan_preview_tool .Assets_plan_preview_period,
+.Teaching_course_tool .Assets_plan_preview_tool .Assets_plan_preview_description {
+	display: none;
+}
+.Teaching_course_tool .Streams_participants_tool .Streams_participants_summary {
+	margin-top: 0;
+}

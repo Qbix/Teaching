@@ -1,0 +1,29 @@
+{
+    "courses": {
+        "Title": "Kursus",
+        "NewCourse": "Kursus Baru",
+        "UpdateCourse": "Kemas kini Kursus",
+        "CreateCourse": "Buat Kursus",
+        "AreYouSureDeleteCourse": "Adakah anda pasti mahu memadamkan kursus ini",
+        "TitlePlaceholder": "tajuk kursus...",
+        "DescribeCourse": "terangkan kursus...",
+        "CourseIcon": "Gambar kursus",
+        "UploadIcon": "Ikon Muat Naik",
+        "Conversation": "Perbualan",
+        "filterCourses": "tapis kursus mengikut nama",
+        "Enroll": "Daftar dalam Kursus",
+        "SubscriptionPlans": "Pelan langganan melibatkan kursus ini",
+        "AssignToPlan": "Berikan kepada pelan langganan",
+        "SelectSubscriptionPlan": "Pilih pelan langganan",
+        "HideTitle": "sembunyikan tajuk",
+        "Interests": "minat",
+        "UpdateInterests": "Kemas kini Minat"
+    },
+    "types": {
+        "Teaching\/course": {
+            "displayType": "Kursus",
+            "description": "Kursus pengajaran",
+            "newItem": "Kursus Baru"
+        }
+    }
+}

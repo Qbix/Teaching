@@ -1,0 +1,29 @@
+{
+    "courses": {
+        "Title": "படிப்புகள்",
+        "NewCourse": "புதிய படிப்பு",
+        "UpdateCourse": "பாடநெறியைப் புதுப்பிக்கவும்",
+        "CreateCourse": "பாடத்தை உருவாக்கவும்",
+        "AreYouSureDeleteCourse": "நிச்சயமாக இந்த பாடத்திட்டத்தை நீக்க விரும்புகிறீர்களா",
+        "TitlePlaceholder": "பாடத்தின் தலைப்பு...",
+        "DescribeCourse": "பாடத்தை விவரிக்க...",
+        "CourseIcon": "பாடப் படம்",
+        "UploadIcon": "பதிவேற்ற ஐகான்",
+        "Conversation": "உரையாடல்",
+        "filterCourses": "படிப்புகளை பெயரால் வடிகட்டவும்",
+        "Enroll": "படிப்பில் பதிவு செய்யுங்கள்",
+        "SubscriptionPlans": "சந்தா திட்டங்கள் இந்த பாடத்திட்டத்தை உள்ளடக்கியது",
+        "AssignToPlan": "சந்தா திட்டத்திற்கு ஒதுக்கவும்",
+        "SelectSubscriptionPlan": "சந்தா திட்டத்தைத் தேர்ந்தெடுக்கவும்",
+        "HideTitle": "தலைப்பை மறை",
+        "Interests": "ஆர்வங்கள்",
+        "UpdateInterests": "ஆர்வங்களைப் புதுப்பிக்கவும்"
+    },
+    "types": {
+        "Teaching\/course": {
+            "displayType": "பாடநெறி",
+            "description": "கற்பித்தல் பாடநெறி",
+            "newItem": "புதிய படிப்பு"
+        }
+    }
+}

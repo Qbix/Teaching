@@ -1,0 +1,29 @@
+{
+    "courses": {
+        "Title": "培训班",
+        "NewCourse": "新课程",
+        "UpdateCourse": "更新课程",
+        "CreateCourse": "创建课程",
+        "AreYouSureDeleteCourse": "您确定要删除此课程吗",
+        "TitlePlaceholder": "课程名称...",
+        "DescribeCourse": "描述课程...",
+        "CourseIcon": "课程图片",
+        "UploadIcon": "上传图标",
+        "Conversation": "对话",
+        "filterCourses": "按名称过滤课程",
+        "Enroll": "报名参加课程",
+        "SubscriptionPlans": "本课程涉及订阅计划",
+        "AssignToPlan": "分配至订阅计划",
+        "SelectSubscriptionPlan": "选择订阅计划",
+        "HideTitle": "隐藏标题",
+        "Interests": "兴趣",
+        "UpdateInterests": "更新兴趣"
+    },
+    "types": {
+        "Teaching\/course": {
+            "displayType": "课程",
+            "description": "教学历程",
+            "newItem": "新课程"
+        }
+    }
+}

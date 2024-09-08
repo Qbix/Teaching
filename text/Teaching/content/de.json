@@ -1,0 +1,29 @@
+{
+    "courses": {
+        "Title": "Kurse",
+        "NewCourse": "Neuer Kurs",
+        "UpdateCourse": "Kurs aktualisieren",
+        "CreateCourse": "Kurs erstellen",
+        "AreYouSureDeleteCourse": "Möchten Sie diesen Kurs wirklich löschen?",
+        "TitlePlaceholder": "kursname...",
+        "DescribeCourse": "Kurs beschreiben...",
+        "CourseIcon": "Kursbild",
+        "UploadIcon": "Symbol „Hochladen“",
+        "Conversation": "Gespräch",
+        "filterCourses": "Kurse nach Namen filtern",
+        "Enroll": "Zum Kurs anmelden",
+        "SubscriptionPlans": "Abonnementpläne beinhalteten diesen Kurs",
+        "AssignToPlan": "Einem Abonnementplan zuweisen",
+        "SelectSubscriptionPlan": "Abonnementplan auswählen",
+        "HideTitle": "Titel ausblenden",
+        "Interests": "Interessen",
+        "UpdateInterests": "Interessen aktualisieren"
+    },
+    "types": {
+        "Teaching\/course": {
+            "displayType": "Kurs",
+            "description": "Lehrveranstaltung",
+            "newItem": "Neuer Kurs"
+        }
+    }
+}

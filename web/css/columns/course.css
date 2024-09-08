@@ -1,0 +1,20 @@
+.Q_column_course h2.Q_title_slot {
+	padding-left: 40px;
+	font-weight: normal;
+}
+#Q_columns-Teaching_tool.Q_columns_tool .Q_column_course h2.Q_title_slot:before {
+	font-family: 'qplatform-calendars' !important;
+	content: "\e906";
+	display: block;
+	font-size: 28px;
+	width: 40px;
+	position: absolute;
+	left: 0;
+	text-align: center;
+	top: 50%;
+	transform: translateY(-50%);
+	color: var(--button-bg-color);
+}
+#Q_columns-Teaching_tool .Q_columns_title .Q_title_slot {
+	width: 100%;
+}

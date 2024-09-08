@@ -1,0 +1,29 @@
+{
+    "courses": {
+        "Title": "અભ્યાસક્રમો",
+        "NewCourse": "નવો અભ્યાસક્રમ",
+        "UpdateCourse": "કોર્સ અપડેટ કરો",
+        "CreateCourse": "કોર્સ બનાવો",
+        "AreYouSureDeleteCourse": "શું તમે ખરેખર આ કોર્સ કાઢી નાખવા માંગો છો",
+        "TitlePlaceholder": "અભ્યાસક્રમ મથાળું...",
+        "DescribeCourse": "અભ્યાસક્રમનું વર્ણન કરો...",
+        "CourseIcon": "કોર્સ ચિત્ર",
+        "UploadIcon": "અપલોડ આઇકન",
+        "Conversation": "વાતચીત",
+        "filterCourses": "નામ દ્વારા અભ્યાસક્રમો ફિલ્ટર કરો",
+        "Enroll": "કોર્સમાં નોંધણી કરો",
+        "SubscriptionPlans": "સબ્સ્ક્રિપ્શન પ્લાનમાં આ કોર્સ સામેલ છે",
+        "AssignToPlan": "સબ્સ્ક્રિપ્શન પ્લાન સોંપો",
+        "SelectSubscriptionPlan": "સબ્સ્ક્રિપ્શન પ્લાન પસંદ કરો",
+        "HideTitle": "શીર્ષક છુપાવો",
+        "Interests": "રૂચિ",
+        "UpdateInterests": "રુચિઓ અપડેટ કરો"
+    },
+    "types": {
+        "Teaching\/course": {
+            "displayType": "અભ્યાસક્રમ",
+            "description": "અધ્યાપન અભ્યાસક્રમ",
+            "newItem": "નવો અભ્યાસક્રમ"
+        }
+    }
+}

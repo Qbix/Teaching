@@ -1,0 +1,29 @@
+{
+    "courses": {
+        "Title": "Kursusse",
+        "NewCourse": "Nuwe kursus",
+        "UpdateCourse": "Opdateer kursus",
+        "CreateCourse": "Skep kursus",
+        "AreYouSureDeleteCourse": "Is jy seker jy wil hierdie kursus uitvee",
+        "TitlePlaceholder": "titel van kursus...",
+        "DescribeCourse": "beskryf kursus...",
+        "CourseIcon": "Kursus prentjie",
+        "UploadIcon": "Oplaai-ikoon",
+        "Conversation": "Gesprek",
+        "filterCourses": "filter kursusse op naam",
+        "Enroll": "Skryf in vir kursus",
+        "SubscriptionPlans": "Intekenplanne het hierdie kursus behels",
+        "AssignToPlan": "Ken toe aan intekeningplan",
+        "SelectSubscriptionPlan": "Kies intekenplan",
+        "HideTitle": "versteek titel",
+        "Interests": "Belange",
+        "UpdateInterests": "Dateer belangstellings op"
+    },
+    "types": {
+        "Teaching\/course": {
+            "displayType": "Kursus",
+            "description": "Onderrig kursus",
+            "newItem": "Nuwe kursus"
+        }
+    }
+}

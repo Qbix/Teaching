@@ -1,0 +1,29 @@
+{
+    "courses": {
+        "Title": "Kursi",
+        "NewCourse": "Jauns kurss",
+        "UpdateCourse": "Atjaunināt kursu",
+        "CreateCourse": "Izveidot kursu",
+        "AreYouSureDeleteCourse": "Vai tiešām vēlaties dzēst šo kursu?",
+        "TitlePlaceholder": "kursa nosaukums...",
+        "DescribeCourse": "apraksti kursu...",
+        "CourseIcon": "Kursa bilde",
+        "UploadIcon": "Augšupielādes ikona",
+        "Conversation": "Saruna",
+        "filterCourses": "filtrēt kursus pēc nosaukuma",
+        "Enroll": "Pieteikties Kursā",
+        "SubscriptionPlans": "Abonēšanas plāni ietvēra šo kursu",
+        "AssignToPlan": "Piešķirt abonēšanas plānam",
+        "SelectSubscriptionPlan": "Izvēlieties abonēšanas plānu",
+        "HideTitle": "slēpt virsrakstu",
+        "Interests": "Intereses",
+        "UpdateInterests": "Atjaunināt intereses"
+    },
+    "types": {
+        "Teaching\/course": {
+            "displayType": "Kurss",
+            "description": "Mācību kurss",
+            "newItem": "Jauns kurss"
+        }
+    }
+}

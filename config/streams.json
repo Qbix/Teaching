@@ -1,0 +1,10 @@
+{
+    "Teaching/courses/main": {
+        "type": "Streams/category",
+        "title": "Courses",
+        "icon": "Streams/category",
+        "readLevel": "40",
+        "writeLevel": "20",
+        "adminLevel": "20"
+    }
+}

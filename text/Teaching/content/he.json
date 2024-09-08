@@ -1,0 +1,29 @@
+{
+    "courses": {
+        "Title": "קורסים",
+        "NewCourse": "קורס חדש",
+        "UpdateCourse": "עדכון קורס",
+        "CreateCourse": "צור קורס",
+        "AreYouSureDeleteCourse": "האם אתה בטוח שברצונך למחוק את הקורס הזה",
+        "TitlePlaceholder": "כותרת הקורס...",
+        "DescribeCourse": "תאר קורס...",
+        "CourseIcon": "תמונת הקורס",
+        "UploadIcon": "סמל העלאה",
+        "Conversation": "שִׂיחָה",
+        "filterCourses": "לסנן קורסים לפי שם",
+        "Enroll": "הירשם לקורס",
+        "SubscriptionPlans": "תוכניות מנוי כללו קורס זה",
+        "AssignToPlan": "הקצה לתוכנית מנוי",
+        "SelectSubscriptionPlan": "בחר תוכנית מנוי",
+        "HideTitle": "הסתר כותרת",
+        "Interests": "תחומי עניין",
+        "UpdateInterests": "עדכן תחומי עניין"
+    },
+    "types": {
+        "Teaching\/course": {
+            "displayType": "קוּרס",
+            "description": "קורס הוראה",
+            "newItem": "קורס חדש"
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "courses": {
+        "Title": "पाठ्यक्रम",
+        "NewCourse": "नया पाठ्यक्रम",
+        "UpdateCourse": "पाठ्यक्रम अपडेट करें",
+        "CreateCourse": "पाठ्यक्रम बनाएं",
+        "AreYouSureDeleteCourse": "क्या आप वाकई इस पाठ्यक्रम को हटाना चाहते हैं?",
+        "TitlePlaceholder": "पाठ्यक्रम शीर्षक...",
+        "DescribeCourse": "पाठ्यक्रम का वर्णन करें...",
+        "CourseIcon": "पाठ्यक्रम चित्र",
+        "UploadIcon": "अपलोड आइकन",
+        "Conversation": "बातचीत",
+        "filterCourses": "नाम से पाठ्यक्रम फ़िल्टर करें",
+        "Enroll": "कोर्स में नामांकन करें",
+        "SubscriptionPlans": "सदस्यता योजना में यह पाठ्यक्रम शामिल है",
+        "AssignToPlan": "सदस्यता योजना को असाइन करें",
+        "SelectSubscriptionPlan": "सदस्यता योजना चुनें",
+        "HideTitle": "शीर्षक छुपाएं",
+        "Interests": "रूचियाँ",
+        "UpdateInterests": "रुचियां अपडेट करें"
+    },
+    "types": {
+        "Teaching\/course": {
+            "displayType": "अवधि",
+            "description": "शिक्षण पाठ्यक्रम",
+            "newItem": "नया पाठ्यक्रम"
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "courses": {
+        "Title": "Kozi",
+        "NewCourse": "Kozi Mpya",
+        "UpdateCourse": "Sasisha Kozi",
+        "CreateCourse": "Unda Kozi",
+        "AreYouSureDeleteCourse": "Je, una uhakika unataka kufuta kozi hii",
+        "TitlePlaceholder": "kichwa cha kozi...",
+        "DescribeCourse": "eleza kozi...",
+        "CourseIcon": "Picha ya kozi",
+        "UploadIcon": "Aikoni ya Kupakia",
+        "Conversation": "Mazungumzo",
+        "filterCourses": "chujio kozi kwa jina",
+        "Enroll": "Jiandikishe katika Kozi",
+        "SubscriptionPlans": "Mipango ya usajili ilihusisha kozi hii",
+        "AssignToPlan": "Weka kwa mpango wa usajili",
+        "SelectSubscriptionPlan": "Chagua mpango wa usajili",
+        "HideTitle": "ficha kichwa",
+        "Interests": "Maslahi",
+        "UpdateInterests": "Sasisha Maslahi"
+    },
+    "types": {
+        "Teaching\/course": {
+            "displayType": "Kozi",
+            "description": "Kozi ya kufundisha",
+            "newItem": "Kozi Mpya"
+        }
+    }
+}

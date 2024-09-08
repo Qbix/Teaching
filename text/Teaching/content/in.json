@@ -1,0 +1,29 @@
+{
+    "courses": {
+        "Title": "Kursus",
+        "NewCourse": "Kursus Baru",
+        "UpdateCourse": "Perbarui Kursus",
+        "CreateCourse": "Buat Kursus",
+        "AreYouSureDeleteCourse": "Apakah Anda yakin ingin menghapus kursus ini",
+        "TitlePlaceholder": "judul kursus...",
+        "DescribeCourse": "jelaskan mata kuliah...",
+        "CourseIcon": "Gambar kursus",
+        "UploadIcon": "Unggah Ikon",
+        "Conversation": "Percakapan",
+        "filterCourses": "memfilter kursus berdasarkan nama",
+        "Enroll": "Mendaftar di Kursus",
+        "SubscriptionPlans": "Paket berlangganan melibatkan kursus ini",
+        "AssignToPlan": "Tetapkan ke paket berlangganan",
+        "SelectSubscriptionPlan": "Pilih paket berlangganan",
+        "HideTitle": "sembunyikan judul",
+        "Interests": "Minat",
+        "UpdateInterests": "Perbarui Minat"
+    },
+    "types": {
+        "Teaching\/course": {
+            "displayType": "Kursus",
+            "description": "Kursus pengajaran",
+            "newItem": "Kursus Baru"
+        }
+    }
+}

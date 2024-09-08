@@ -1,0 +1,29 @@
+{
+    "courses": {
+        "Title": "Kurse",
+        "NewCourse": "Kurs i ri",
+        "UpdateCourse": "Përditëso kursin",
+        "CreateCourse": "Krijo kurs",
+        "AreYouSureDeleteCourse": "Jeni të sigurt që dëshironi ta fshini këtë kurs",
+        "TitlePlaceholder": "titulli i kursit...",
+        "DescribeCourse": "përshkruani kursin...",
+        "CourseIcon": "Fotografia e kursit",
+        "UploadIcon": "Ikona e ngarkimit",
+        "Conversation": "bashkëbisedim",
+        "filterCourses": "filtro kurse sipas emrit",
+        "Enroll": "Regjistrohu në Kurs",
+        "SubscriptionPlans": "Planet e abonimit përfshinin këtë kurs",
+        "AssignToPlan": "Cakto në planin e abonimit",
+        "SelectSubscriptionPlan": "Zgjidhni planin e abonimit",
+        "HideTitle": "fsheh titullin",
+        "Interests": "Interesat",
+        "UpdateInterests": "Përditëso interesat"
+    },
+    "types": {
+        "Teaching\/course": {
+            "displayType": "Kursi",
+            "description": "Kurs mësimor",
+            "newItem": "Kurs i ri"
+        }
+    }
+}

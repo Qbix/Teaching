@@ -1,0 +1,149 @@
+{
+	"Q": {
+		"pluginInfo": {
+			"Teaching": {
+				"version": "0.1.4",
+				"compatible": "0.1",
+				"requires": {
+					"Streams": "1.0",
+					"Communities": "0.9.7.3"
+				},
+				"permissions": [],
+				"connections": ["Users", "Streams", "Communities"]
+			}
+		},
+		"handlersBeforeEvent": {
+			"Q/reroute": ["Teaching/before/Q_reroute"],
+			"Q/responseExtras": ["Teaching/before/Q_responseExtras"],
+			"Q/sessionExtras": ["Teaching/before/Q_sessionExtras"]
+		},
+		"handlersAfterEvent": {
+			"Q/configure": ["Teaching/after/Q_configure"]
+		},
+		"routes": {
+			"courses": { "module": "Teaching", "action": "courses" },
+			"course/:publisherId/:courseId": { "module": "Teaching", "action": "course" }
+		},
+		"web": {
+			"requireValidNonce": ["Teaching"],
+			"noAnimationFX": false
+		},
+		"javascript": {
+			"uris": [
+				"Teaching/courses", "Teaching/course"
+			]
+		},
+		"environments": {
+			"live": {
+				"prepare": {
+					"{{Teaching}}": ["js", "css"]
+				}
+			}
+		},
+		"text": {
+			"Teaching": {
+				"*": ["Teaching/content"],
+				"email": {
+					"*": ["Users/email", "Teaching/email"]
+				},
+				"sms": {
+					"*": ["Users/sms", "Teaching/sms"]
+				}
+			}
+		},
+		"images": {
+			
+			"Teaching/course": {
+				"sizes": ["80", "1000x"],
+				"defaultSize": "1000x",
+				"maxStretch": 4
+			},
+			"lazyload": true
+		}
+	},
+	"Users": {
+		"onInsert": {
+			"roles": ["Users/authors", "Users/teachers", "Users/students", "Users/alumni"]
+		},
+		"roles": {
+			"Users/owners": {
+				"canGrant": ["Users/teachers", "Users/students"],
+				"canRevoke": ["Users/teachers", "Users/students"],
+				"canSee": ["Users/teachers", "Users/students"]
+			},
+			"Users/admins": {
+				"canGrant": ["Users/teachers", "Users/students"],
+				"canRevoke": ["Users/teachers", "Users/students"],
+				"canSee": ["Users/teachers", "Users/students"]
+			},
+			"Users/authors": {
+				"canGrant": ["Users/teachers", "Users/students"],
+				"canRevoke": ["Users/teachers", "Users/students"],
+				"canSee": ["Users/teachers", "Users/students"]
+			},
+			"Users/teachers": {
+				"title": "Teachers",
+				"icon": "{{Teaching}}/img/icons/labels/Teaching/teachers",
+				"canGrant": ["Users/members", "Users/guests", "Users/students"],
+				"canRevoke": ["Users/members", "Users/guests", "Users/students"],
+				"canSee": ["Users/owners", "Users/admins", "Users/members", "Users/guests", "Users/teachers", "Users/students"]
+			},
+			"Users/students": {
+				"title": "Students",
+				"icon": "{{Teaching}}/img/icons/labels/Teaching/students",
+				"canGrant": ["Users/guests"],
+				"canRevoke": ["Users/guests"],
+				"canSee": ["Users/owners", "Users/admins", "Users/members", "Users/guests", "Users/teachers", "Users/students"]
+			},
+			"Users/alumni": {
+				"title": "Alumni",
+				"icon": "{{Teaching}}/img/icons/labels/Teaching/alumni",
+				"canGrant": ["Users/guests"],
+				"canRevoke": ["Users/guests"],
+				"canSee": ["Users/owners", "Users/admins", "Users/members", "Users/guests", "Users/teachers", "Users/students"]
+			},
+			"Users/members": {
+				"canSee": ["Users/teachers", "Users/students"]
+			},
+			"Users/guests": {
+				"canSee": ["Users/teachers", "Users/students"]
+			},
+			"Calendars/admins": {
+				"canGrant": ["Users/teachers", "Users/students", "Users/speakers", "Users/members", "Users/guests"],
+				"canRevoke": ["Users/teachers", "Users/students", "Users/speakers", "Users/members", "Users/guests"],
+				"canSee": ["Users/teachers", "Users/students", "Users/speakers", "Users/members", "Users/guests"]
+			},
+			"": {
+				"canSee": ["Users/teachers", "Users/students"]
+			}
+		}
+	},
+	"Streams": {
+		"userStreams": {
+			"Teaching": "streams.json"
+		},
+		"types": {
+			"*": {
+				"canCreate": ["Users/teachers"]
+			},
+			"Teaching/course": {
+				"emoji": "💡",
+				"create": true,
+				"edit": true,
+				"defaults": {
+					"title": "",
+					"icon": "{{Teaching}}/img/icons/Teaching/course",
+					"readLevel": 20,
+					"writeLevel": 20,
+					"adminLevel": 20
+				},
+				"url": "{{Teaching}}/course/{{publisherId}}/{{courseId}}"
+			}
+		}
+	},
+	"Assets": {
+		"canPayForStreams": {
+			"types": ["Teaching/course"]
+		}
+	}
+}

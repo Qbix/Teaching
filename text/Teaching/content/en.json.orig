@@ -1,0 +1,29 @@
+{
+    "courses": {
+        "Title": "Courses",
+        "NewCourse": "New Course",
+        "UpdateCourse": "Update Course",
+        "CreateCourse": "Create Course",
+        "AreYouSureDeleteCourse": "Are you sure you want to delete this course",
+        "TitlePlaceholder": "course title...",
+        "DescribeCourse": "describe course...",
+        "CourseIcon": "Course picture",
+        "UploadIcon": "Upload Icon",
+        "Conversation": "Conversation",
+        "filterCourses": "filter courses by name",
+        "Enroll": "Enroll in Course",
+        "SubscriptionPlans": "Subscription plans involved this course",
+        "AssignToPlan": "Assign to subscription plan",
+        "SelectSubscriptionPlan": "Select subscription plan",
+        "HideTitle": "hide title",
+        "Interests": "Interests",
+        "UpdateInterests": "Update Interests"
+    },
+    "types": {
+        "Teaching\/course": {
+            "displayType": "Course",
+            "description": "Teaching course",
+            "newItem": "New Course"
+        }
+    }
+}

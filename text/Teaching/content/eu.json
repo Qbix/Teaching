@@ -1,0 +1,29 @@
+{
+    "courses": {
+        "Title": "Ikastaroak",
+        "NewCourse": "Ikastaro Berria",
+        "UpdateCourse": "Eguneratzeko Ikastaroa",
+        "CreateCourse": "Sortu Ikastaroa",
+        "AreYouSureDeleteCourse": "Ziur ikastaro hau ezabatu nahi duzula",
+        "TitlePlaceholder": "ikastaroaren izenburua...",
+        "DescribeCourse": "deskribatu ikastaroa...",
+        "CourseIcon": "Ikastaroaren argazkia",
+        "UploadIcon": "Kargatu ikonoa",
+        "Conversation": "Elkarrizketa",
+        "filterCourses": "iragazi ikastaroak izenaren arabera",
+        "Enroll": "Ikastaroan izena eman",
+        "SubscriptionPlans": "Harpidetza planek ikastaro honetan parte hartzen dute",
+        "AssignToPlan": "Esleitu harpidetza-planari",
+        "SelectSubscriptionPlan": "Hautatu harpidetza plana",
+        "HideTitle": "izenburua ezkutatu",
+        "Interests": "Interesak",
+        "UpdateInterests": "Eguneratu Interesak"
+    },
+    "types": {
+        "Teaching\/course": {
+            "displayType": "Ikastaroa",
+            "description": "Irakaskuntza ikastaroa",
+            "newItem": "Ikastaro Berria"
+        }
+    }
+}

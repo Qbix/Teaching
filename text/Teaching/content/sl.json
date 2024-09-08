@@ -1,0 +1,29 @@
+{
+    "courses": {
+        "Title": "Tečaji",
+        "NewCourse": "Nov tečaj",
+        "UpdateCourse": "Posodobi tečaj",
+        "CreateCourse": "Ustvarite tečaj",
+        "AreYouSureDeleteCourse": "Ali ste prepričani, da želite izbrisati ta tečaj?",
+        "TitlePlaceholder": "Naslov predavanj...",
+        "DescribeCourse": "opis tečaja...",
+        "CourseIcon": "Slika tečaja",
+        "UploadIcon": "Ikona za nalaganje",
+        "Conversation": "Pogovor",
+        "filterCourses": "filtrirajte tečaje po imenu",
+        "Enroll": "Vpišite se v tečaj",
+        "SubscriptionPlans": "Ta tečaj je vključeval naročnine",
+        "AssignToPlan": "Dodeli naročniškemu paketu",
+        "SelectSubscriptionPlan": "Izberite naročniški paket",
+        "HideTitle": "skrij naslov",
+        "Interests": "Zanimanja",
+        "UpdateInterests": "Posodobite zanimanja"
+    },
+    "types": {
+        "Teaching\/course": {
+            "displayType": "tečaj",
+            "description": "Tečaj poučevanja",
+            "newItem": "Nov tečaj"
+        }
+    }
+}

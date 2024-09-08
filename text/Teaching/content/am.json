@@ -1,0 +1,29 @@
+{
+    "courses": {
+        "Title": "ኮርሶች",
+        "NewCourse": "አዲስ ኮርስ",
+        "UpdateCourse": "ኮርሱን አዘምን",
+        "CreateCourse": "ኮርስ ይፍጠሩ",
+        "AreYouSureDeleteCourse": "እርግጠኛ ነዎት ይህን ኮርስ መሰረዝ ይፈልጋሉ",
+        "TitlePlaceholder": "የኮርሱ ርዕስ...",
+        "DescribeCourse": "ኮርሱን ይግለጹ…",
+        "CourseIcon": "የኮርስ ስዕል",
+        "UploadIcon": "የመስቀል አዶ",
+        "Conversation": "ውይይት",
+        "filterCourses": "ኮርሶችን በስም ያጣሩ",
+        "Enroll": "በኮርስ ይመዝገቡ",
+        "SubscriptionPlans": "የምዝገባ ዕቅዶች በዚህ ኮርስ ውስጥ ተሳትፈዋል",
+        "AssignToPlan": "ለደንበኝነት ምዝገባ እቅድ ይመድቡ",
+        "SelectSubscriptionPlan": "የምዝገባ እቅድ ይምረጡ",
+        "HideTitle": "ርዕስ ደብቅ",
+        "Interests": "ፍላጎቶች",
+        "UpdateInterests": "ፍላጎቶችን ያዘምኑ"
+    },
+    "types": {
+        "Teaching\/course": {
+            "displayType": "ኮርስ",
+            "description": "የማስተማር ኮርስ",
+            "newItem": "አዲስ ኮርስ"
+        }
+    }
+}

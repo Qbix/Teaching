@@ -1,0 +1,29 @@
+{
+    "courses": {
+        "Title": "Курсеви",
+        "NewCourse": "Нов курс",
+        "UpdateCourse": "Ажурирање на курсот",
+        "CreateCourse": "Креирај курс",
+        "AreYouSureDeleteCourse": "Дали сте сигурни дека сакате да го избришете овој курс?",
+        "TitlePlaceholder": "наслов на курсот...",
+        "DescribeCourse": "опиши го курсот...",
+        "CourseIcon": "Слика од курсот",
+        "UploadIcon": "Икона за поставување",
+        "Conversation": "Разговор",
+        "filterCourses": "филтрирајте ги курсевите по име",
+        "Enroll": "Запишете се на курсот",
+        "SubscriptionPlans": "Плановите за претплата го вклучија овој курс",
+        "AssignToPlan": "Доделете на планот за претплата",
+        "SelectSubscriptionPlan": "Изберете план за претплата",
+        "HideTitle": "сокриј наслов",
+        "Interests": "Интереси",
+        "UpdateInterests": "Ажурирајте ги интересите"
+    },
+    "types": {
+        "Teaching\/course": {
+            "displayType": "Курс",
+            "description": "Курс за настава",
+            "newItem": "Нов курс"
+        }
+    }
+}

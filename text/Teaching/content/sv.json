@@ -1,0 +1,29 @@
+{
+    "courses": {
+        "Title": "Kurser",
+        "NewCourse": "Ny kurs",
+        "UpdateCourse": "Uppdatera kurs",
+        "CreateCourse": "Skapa kurs",
+        "AreYouSureDeleteCourse": "Är du säker på att du vill ta bort den här kursen",
+        "TitlePlaceholder": "kurstitel...",
+        "DescribeCourse": "beskriv kursen...",
+        "CourseIcon": "Kursbild",
+        "UploadIcon": "Ladda upp ikon",
+        "Conversation": "Konversation",
+        "filterCourses": "filtrera kurser efter namn",
+        "Enroll": "Anmäl dig till kursen",
+        "SubscriptionPlans": "Prenumerationsplaner involverade denna kurs",
+        "AssignToPlan": "Tilldela till prenumerationsplan",
+        "SelectSubscriptionPlan": "Välj prenumerationsplan",
+        "HideTitle": "dölj titel",
+        "Interests": "Intressen",
+        "UpdateInterests": "Uppdatera intressen"
+    },
+    "types": {
+        "Teaching\/course": {
+            "displayType": "Kurs",
+            "description": "Lärarkurs",
+            "newItem": "Ny kurs"
+        }
+    }
+}

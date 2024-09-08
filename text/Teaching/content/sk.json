@@ -1,0 +1,29 @@
+{
+    "courses": {
+        "Title": "Kurzy",
+        "NewCourse": "Nový kurz",
+        "UpdateCourse": "Aktualizovať kurz",
+        "CreateCourse": "Vytvoriť kurz",
+        "AreYouSureDeleteCourse": "Naozaj chcete odstrániť tento kurz?",
+        "TitlePlaceholder": "názov kurzu...",
+        "DescribeCourse": "opísať priebeh...",
+        "CourseIcon": "Obrázok kurzu",
+        "UploadIcon": "Ikona odovzdania",
+        "Conversation": "Konverzácia",
+        "filterCourses": "filtrovať kurzy podľa názvu",
+        "Enroll": "Zapíšte sa do kurzu",
+        "SubscriptionPlans": "Plány predplatného zahŕňali tento kurz",
+        "AssignToPlan": "Priradiť k plánu predplatného",
+        "SelectSubscriptionPlan": "Vyberte plán predplatného",
+        "HideTitle": "skryť názov",
+        "Interests": "Záujmy",
+        "UpdateInterests": "Aktualizovať záujmy"
+    },
+    "types": {
+        "Teaching\/course": {
+            "displayType": "Samozrejme",
+            "description": "Učiteľský kurz",
+            "newItem": "Nový kurz"
+        }
+    }
+}

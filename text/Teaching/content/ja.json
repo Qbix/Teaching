@@ -1,0 +1,29 @@
+{
+    "courses": {
+        "Title": "コース",
+        "NewCourse": "新しいコース",
+        "UpdateCourse": "コースの更新",
+        "CreateCourse": "コースを作成する",
+        "AreYouSureDeleteCourse": "このコースを削除してもよろしいですか?",
+        "TitlePlaceholder": "コースタイトル...",
+        "DescribeCourse": "コースを説明します...",
+        "CourseIcon": "コース写真",
+        "UploadIcon": "アップロードアイコン",
+        "Conversation": "会話",
+        "filterCourses": "コース名でフィルタリング",
+        "Enroll": "コースに登録する",
+        "SubscriptionPlans": "このコースに関連するサブスクリプションプラン",
+        "AssignToPlan": "サブスクリプションプランに割り当てる",
+        "SelectSubscriptionPlan": "サブスクリプションプランを選択",
+        "HideTitle": "タイトルを隠す",
+        "Interests": "興味",
+        "UpdateInterests": "興味の更新"
+    },
+    "types": {
+        "Teaching\/course": {
+            "displayType": "コース",
+            "description": "教育コース",
+            "newItem": "新しいコース"
+        }
+    }
+}

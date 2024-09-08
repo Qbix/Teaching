@@ -1,0 +1,54 @@
+#content_slot {
+	overflow: hidden;
+}
+#content #Q_columns-Teaching_tool {
+	height: 100%;
+}
+.Teaching_no_items {
+	display: none;
+}
+.Teaching_courses_column[data-emptyCourses="1"] .Teaching_no_items {
+	display: block;
+}
+.Q_column_courses .Q_columns_title {
+	display: none;
+}
+.Communities_column_facebook.Q_column_0 .Q_columns_title {
+	display: block;
+}
+.Q_column_courses button[name=addCourse] {
+	margin: 20px auto 0;
+	display: block;
+}
+.Q_column_courses.Communities_column_facebook button[name=addCourse] {
+	display: none;
+}
+.Q_column_courses .Teaching_course_preview_tool {
+	cursor: pointer;
+	margin-bottom: 20px;
+}
+.Q_column_courses .Streams_related_tool {
+	display: flex;
+	flex-wrap: wrap;
+	row-gap: 10px;
+	column-gap: 10px;
+	justify-content: center;
+}
+.Q_column_courses .Streams_related_tool .Streams_preview_tool.Streams_preview_composer {
+	display: none;
+	flex-basis: 100%;
+}
+.Q_column_courses .Streams_related_tool .Streams_preview_tool {
+	min-width: 360px;
+	flex-basis: calc(50% - 5px);
+}
+@media (max-width: 700px) {
+	.Q_column_courses .Streams_related_tool .Streams_preview_tool {
+		flex-basis: 100%;
+	}
+}
+@media (min-width: 1300px) {
+	.Q_column_courses .Streams_related_tool .Streams_preview_tool {
+		flex-basis: calc(33% - 5px);
+	}
+}

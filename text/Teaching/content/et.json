@@ -1,0 +1,29 @@
+{
+    "courses": {
+        "Title": "Kursused",
+        "NewCourse": "Uus Kursus",
+        "UpdateCourse": "Värskenda kursust",
+        "CreateCourse": "Loo kursus",
+        "AreYouSureDeleteCourse": "Kas olete kindel, et soovite selle kursuse kustutada?",
+        "TitlePlaceholder": "kursuse pealkiri...",
+        "DescribeCourse": "kirjelda kursust...",
+        "CourseIcon": "Kursuse pilt",
+        "UploadIcon": "Üleslaadimise ikoon",
+        "Conversation": "Vestlus",
+        "filterCourses": "filtreerida kursused nime järgi",
+        "Enroll": "Registreeruge kursusele",
+        "SubscriptionPlans": "Tellimusplaanid hõlmasid seda kursust",
+        "AssignToPlan": "Määrake liitumisplaaniga",
+        "SelectSubscriptionPlan": "Valige liitumisplaan",
+        "HideTitle": "peida pealkiri",
+        "Interests": "Huvid",
+        "UpdateInterests": "Värskenda huvisid"
+    },
+    "types": {
+        "Teaching\/course": {
+            "displayType": "Kursus",
+            "description": "Õpetamiskursus",
+            "newItem": "Uus Kursus"
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "courses": {
+        "Title": "Kurser",
+        "NewCourse": "Nyt kursus",
+        "UpdateCourse": "Opdater kursus",
+        "CreateCourse": "Opret kursus",
+        "AreYouSureDeleteCourse": "Er du sikker på, at du vil slette dette kursus",
+        "TitlePlaceholder": "kursus navn...",
+        "DescribeCourse": "beskriv kursus...",
+        "CourseIcon": "Kursusbillede",
+        "UploadIcon": "Upload ikon",
+        "Conversation": "Samtale",
+        "filterCourses": "filtrere kurser efter navn",
+        "Enroll": "Tilmeld dig kursus",
+        "SubscriptionPlans": "Abonnementsplaner involverede dette kursus",
+        "AssignToPlan": "Tildel til abonnementsplan",
+        "SelectSubscriptionPlan": "Vælg abonnementsplan",
+        "HideTitle": "skjul titel",
+        "Interests": "Interesser",
+        "UpdateInterests": "Opdater interesser"
+    },
+    "types": {
+        "Teaching\/course": {
+            "displayType": "Rute",
+            "description": "Undervisningskursus",
+            "newItem": "Nyt kursus"
+        }
+    }
+}

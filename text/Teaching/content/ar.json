@@ -1,0 +1,29 @@
+{
+    "courses": {
+        "Title": "الدورات",
+        "NewCourse": "دورة جديدة",
+        "UpdateCourse": "تحديث الدورة",
+        "CreateCourse": "إنشاء دورة",
+        "AreYouSureDeleteCourse": "هل أنت متأكد أنك تريد حذف هذه الدورة؟",
+        "TitlePlaceholder": "عنوان الدورة...",
+        "DescribeCourse": "وصف الدورة...",
+        "CourseIcon": "صورة الدورة",
+        "UploadIcon": "أيقونة التحميل",
+        "Conversation": "محادثة",
+        "filterCourses": "تصفية الدورات حسب الاسم",
+        "Enroll": "التسجيل في الدورة",
+        "SubscriptionPlans": "تتضمن خطط الاشتراك هذه الدورة",
+        "AssignToPlan": "تعيين لخطة الاشتراك",
+        "SelectSubscriptionPlan": "حدد خطة الاشتراك",
+        "HideTitle": "إخفاء العنوان",
+        "Interests": "الإهتمامات",
+        "UpdateInterests": "تحديث الاهتمامات"
+    },
+    "types": {
+        "Teaching\/course": {
+            "displayType": "دورة",
+            "description": "دورة التدريس",
+            "newItem": "دورة جديدة"
+        }
+    }
+}

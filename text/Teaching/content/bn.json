@@ -1,0 +1,29 @@
+{
+    "courses": {
+        "Title": "পাঠ্যধারাগুলি",
+        "NewCourse": "নতুন কোর্স",
+        "UpdateCourse": "কোর্স আপডেট করুন",
+        "CreateCourse": "কোর্স তৈরি করুন",
+        "AreYouSureDeleteCourse": "আপনি কি নিশ্চিত যে আপনি এই কোর্সটি মুছে ফেলতে চান?",
+        "TitlePlaceholder": "কোর্সের শিরোনাম...",
+        "DescribeCourse": "কোর্স বর্ণনা করুন...",
+        "CourseIcon": "কোর্সের ছবি",
+        "UploadIcon": "আপলোড আইকন",
+        "Conversation": "কথোপকথন",
+        "filterCourses": "নাম অনুসারে কোর্স ফিল্টার করুন",
+        "Enroll": "কোর্সে ভর্তি হন",
+        "SubscriptionPlans": "সাবস্ক্রিপশন পরিকল্পনা এই কোর্স জড়িত",
+        "AssignToPlan": "সদস্যতা পরিকল্পনা বরাদ্দ",
+        "SelectSubscriptionPlan": "সদস্যতা পরিকল্পনা নির্বাচন করুন",
+        "HideTitle": "শিরোনাম লুকান",
+        "Interests": "আগ্রহ",
+        "UpdateInterests": "আগ্রহ আপডেট করুন"
+    },
+    "types": {
+        "Teaching\/course": {
+            "displayType": "কোর্স",
+            "description": "পাঠদান কোর্স",
+            "newItem": "নতুন কোর্স"
+        }
+    }
+}

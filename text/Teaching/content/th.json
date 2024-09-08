@@ -1,0 +1,29 @@
+{
+    "courses": {
+        "Title": "หลักสูตร",
+        "NewCourse": "หลักสูตรใหม่",
+        "UpdateCourse": "อัพเดทหลักสูตร",
+        "CreateCourse": "สร้างหลักสูตร",
+        "AreYouSureDeleteCourse": "คุณแน่ใจหรือไม่ว่าต้องการลบหลักสูตรนี้",
+        "TitlePlaceholder": "ชื่อหลักสูตร...",
+        "DescribeCourse": "อธิบายหลักสูตร...",
+        "CourseIcon": "ภาพหลักสูตร",
+        "UploadIcon": "อัพโหลดไอคอน",
+        "Conversation": "การสนทนา",
+        "filterCourses": "กรองหลักสูตรตามชื่อ",
+        "Enroll": "ลงทะเบียนเรียนในหลักสูตร",
+        "SubscriptionPlans": "แผนการสมัครสมาชิกเกี่ยวข้องกับหลักสูตรนี้",
+        "AssignToPlan": "กำหนดให้กับแผนการสมัครสมาชิก",
+        "SelectSubscriptionPlan": "เลือกแผนการสมัครสมาชิก",
+        "HideTitle": "ซ่อนชื่อ",
+        "Interests": "ความสนใจ",
+        "UpdateInterests": "อัปเดตความสนใจ"
+    },
+    "types": {
+        "Teaching\/course": {
+            "displayType": "คอร์ส",
+            "description": "หลักสูตรการสอน",
+            "newItem": "หลักสูตรใหม่"
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "courses": {
+        "Title": "دوره های آموزشی",
+        "NewCourse": "دوره جدید",
+        "UpdateCourse": "به روز رسانی دوره",
+        "CreateCourse": "ایجاد دوره",
+        "AreYouSureDeleteCourse": "آیا مطمئن هستید که می خواهید این دوره را حذف کنید؟",
+        "TitlePlaceholder": "عنوان دوره...",
+        "DescribeCourse": "شرح دوره ...",
+        "CourseIcon": "تصویر دوره",
+        "UploadIcon": "نماد آپلود",
+        "Conversation": "گفتگو",
+        "filterCourses": "فیلتر کردن دوره ها بر اساس نام",
+        "Enroll": "ثبت نام در دوره",
+        "SubscriptionPlans": "طرح های اشتراک شامل این دوره می شد",
+        "AssignToPlan": "به طرح اشتراک اختصاص دهید",
+        "SelectSubscriptionPlan": "طرح اشتراک را انتخاب کنید",
+        "HideTitle": "پنهان کردن عنوان",
+        "Interests": "منافع",
+        "UpdateInterests": "به روز رسانی علایق"
+    },
+    "types": {
+        "Teaching\/course": {
+            "displayType": "دوره",
+            "description": "دوره تدریس",
+            "newItem": "دوره جدید"
+        }
+    }
+}
