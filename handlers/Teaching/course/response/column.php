@@ -28,21 +28,12 @@ function Teaching_course_response_column($params)
 
 	Q_Response::setSlot('title', $stream->title);
 
-	Q_Response::setMeta(array(
-		array('attrName' => 'name', 'attrValue' => 'title', 'content' => $stream->title),
-		array('attrName' => 'property', 'attrValue' => 'og:title', 'content' => $stream->title),
-		array('attrName' => 'property', 'attrValue' => 'twitter:title', 'content' => $stream->title),
-		array('attrName' => 'name', 'attrValue' => 'description', 'content' => $stream->content),
-		array('attrName' => 'property', 'attrValue' => 'og:description', 'content' => $stream->content),
-		array('attrName' => 'property', 'attrValue' => 'twitter:description', 'content' => $stream->content),
-		//array('attrName' => 'name', 'attrValue' => 'keywords', 'content' => $text['Keywords']),
-		//array('attrName' => 'property', 'attrValue' => 'og:keywords', 'content' => $text['Keywords']),
-		//array('attrName' => 'property', 'attrValue' => 'twitter:keywords', 'content' => $text['Keywords']),
-		array('attrName' => 'property', 'attrValue' => 'og:url', 'content' => $url),
-		array('attrName' => 'property', 'attrValue' => 'twitter:url', 'content' => $url),
-		array('attrName' => 'property', 'attrValue' => 'twitter:card', 'content' => 'summary')
+	$title = $stream->title;
+	$description = $stream->content;
+	$image = Q_Html::themedUrl('img/icon/400.png');
+	Q_Response::setCommonMetas(compact(
+		'title', 'description', 'image', 'url'
 	));
-
 	return $column;
 }
 

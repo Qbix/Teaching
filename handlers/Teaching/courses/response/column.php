@@ -24,22 +24,12 @@ function Teaching_courses_response_column($params)
 		'url' => $url
 	);
 
-	$description = Q::text($text['Description'], array($communityId));
-	Q_Response::setMeta(array(
-		array('attrName' => 'name', 'attrValue' => 'title', 'content' => $title),
-		array('attrName' => 'property', 'attrValue' => 'og:title', 'content' => $title),
-		array('attrName' => 'property', 'attrValue' => 'twitter:title', 'content' => $title),
-		array('attrName' => 'name', 'attrValue' => 'description', 'content' => $description),
-		array('attrName' => 'property', 'attrValue' => 'og:description', 'content' => $description),
-		array('attrName' => 'property', 'attrValue' => 'twitter:description', 'content' => $description),
-		array('attrName' => 'name', 'attrValue' => 'keywords', 'content' => $text['Keywords']),
-		array('attrName' => 'property', 'attrValue' => 'og:keywords', 'content' => $text['Keywords']),
-		array('attrName' => 'property', 'attrValue' => 'twitter:keywords', 'content' => $text['Keywords']),
-		array('attrName' => 'property', 'attrValue' => 'og:url', 'content' => $url),
-		array('attrName' => 'property', 'attrValue' => 'twitter:url', 'content' => $url),
-		array('attrName' => 'property', 'attrValue' => 'twitter:card', 'content' => 'summary')
+	$description = Q::interpolate($text['Description'], array($communityId));
+	$keywords = $text['Keywords'];
+	$image = Q_Html::img('img/icon/400.png');
+	Q_Response::setCommonMetas(compact(
+		'title', 'description', 'keywords', 'image', 'url'
 	));
-
 	return $column;
 }
 
