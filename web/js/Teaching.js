@@ -36,7 +36,7 @@
 				showSize: "1000x",
 				fullSize: "1000x",
 				saveSizeName: {
-					"1000x": '1000x.png'
+					"1000x": '1000x.jpg'
 				},
 				save: "Teaching/course"
 			}
